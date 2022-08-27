@@ -1,0 +1,22 @@
+Part 2 web profile
+1. Creating navbar
+	- 2 line on first row
+	- brand
+2. navbar menu
+	- ul
+3. responsiv navbar
+	- collapse
+4. button menu navbar
+	- button
+5. margin-top for body 
+6. dowload jquery
+7. change src jquery to offline
+8. call id for all sections menu on a herf menu 
+	-#about
+	-#portfolio
+	-#contact 
+9. linking logo to home
+	- create id after html lang componen
+	- add id html lang on href brand(logo)
+10. creating js scrip
+11. cal js file after calling bootstraps js

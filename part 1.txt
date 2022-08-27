@@ -1,0 +1,18 @@
+1. jumbotron
+2. centering = class text-center(bootstrap)
+3. grid system :
+	-> col-xs-value(12, 6, etc)->mobile
+	-> col-sm-value(12, 6, etc)->tablet
+	-> col-md-value(12, 6, etc)->laptop
+	-> col-lg-value(12, 6, etc)->desktop
+4. sizing image
+	- a href="" class="thumbnail"
+5. creating form on doc bootstrap
+6. centering form with grid
+	-> col-sm-8 col-sm-offset-2
+7. footer
+	- copyright with html entity -> &copy;
+8. icon bootctrap
+	->doc bootstrap
+	->componen
+	->glyphicon
